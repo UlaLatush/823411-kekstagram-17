@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Ula Latush](https://up.htmlacademy.ru/javascript/17/user/823411).
-* Наставник: `Неизвестно`.
+* Наставник: `Отсутствует`.
 
 ---
 
